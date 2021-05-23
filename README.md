@@ -18,7 +18,7 @@ A Discord bot that stalks certain accounts for information.
 
 ## Usage
 
-1. create a `.env` file and add a line `TOKEN=<insert discord bot token here>`
+1. create a `.env` file and add a line `DISCORD_BOT_TOKEN=<insert discord bot token here>`
 2. Run `pip3 install -r requirements.txt` in the shell (navigate to the same directory as `requirements.txt` first)
 3. run `main.py`
 
@@ -33,3 +33,4 @@ Found a problem? Create an [issue](https://github.com/vivian-dai/odris-soulmate/
 - [ ] implement scraping for YouTube
 - [ ] implement scraping for Facebook
 - [ ] add configurations per server
+- [ ] use interrupts or something for higher efficiency and saving resources
