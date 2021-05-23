@@ -1,5 +1,9 @@
 # odris-soulmate
 
+![MIT badge](https://img.shields.io/github/license/vivian-dai/odris-soulmate?color=blue&style=flat-square)
+![code size badge](https://img.shields.io/github/languages/code-size/vivian-dai/odris-soulmate?style=flat-square)
+![python 3.6 badge](https://img.shields.io/badge/python-v3.6%2B-blue?color=blue&style=flat-square)
+
 A Discord bot that stalks certain accounts for information.
 
 ## Backstory
